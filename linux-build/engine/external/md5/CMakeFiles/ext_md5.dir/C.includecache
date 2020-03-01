@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wijaya/Documents/CocosProject/FlappyCoba/cocos2d/external/md5/md5.c
+md5.h
+/home/wijaya/Documents/CocosProject/FlappyCoba/cocos2d/external/md5/md5.h
+string.h
+-
+
+/home/wijaya/Documents/CocosProject/FlappyCoba/cocos2d/external/md5/md5.h
+
